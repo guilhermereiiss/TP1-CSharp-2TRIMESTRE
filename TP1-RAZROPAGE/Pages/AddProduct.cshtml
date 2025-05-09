@@ -1,0 +1,30 @@
+﻿@page
+@model ProductCatalog.Pages.AddProductModel
+@{
+    ViewData["Title"] = "Adicionar Produto";
+}
+
+<h1>Adicionar Produto - Questao 09</h1>
+
+<form method="post">
+    <div>
+        <label for="Nome">Nome do Produto:</label><br />
+        <input type="text" id="Nome" name="Nome" asp-for="Nome" required />
+    </div>
+    <br />
+    <div>
+        <label for="Preco">Preço:</label><br />
+        <input type="number" id="Preco" name="Preco" asp-for="Preco" step="0.01" required />
+    </div>
+    <br />
+    <button type="submit">Salvar</button>
+</form>
+
+@if (Model.ProdutoEnviado)
+{
+    <h2>Produto Cadastrado:</h2>
+    <p><strong>Nome:</strong> @Model.Nome</p>
+    <p><strong>Preço:</strong> R$ @Model.Preco</p>
+}
+
+<a href="/Index">Ir para Questão 08</a>

@@ -15,7 +15,7 @@ namespace TP1_CSHARP_2TRIMESTRE.Questao01
 
         public static void Executar()
         {
-            Console.WriteLine("=== Sistema de Desconto ===\n");
+            Console.WriteLine("--- Sistema de Desconto ---\n");
 
             Console.Write("Informe o preço original do produto (R$): ");
             string input = Console.ReadLine();
@@ -23,7 +23,7 @@ namespace TP1_CSHARP_2TRIMESTRE.Questao01
             if (!decimal.TryParse(input, out decimal precoOriginal) || precoOriginal < 0)
             {
                 Console.ForegroundColor = ConsoleColor.Red;
-                Console.WriteLine("Valor inválido! Digite um numero positivo valido.");
+                Console.WriteLine("Valor invalido! Digite um numero positivo valido");
                 Console.ResetColor();
                 return;
             }

@@ -3,16 +3,64 @@
   "WorkspaceRootPath": "C:\\Users\\guilh\\source\\repos\\TP1-C#-2TRIMESTRE\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CF43E809-D0B6-462E-8C60-A3EFC0EC31CD}|TP1-RAZROPAGE\\TP1-RAZROPAGE.csproj|c:\\users\\guilh\\source\\repos\\tp1-c#-2trimestre\\tp1-razropage\\pages\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF43E809-D0B6-462E-8C60-A3EFC0EC31CD}|TP1-RAZROPAGE\\TP1-RAZROPAGE.csproj|solutionrelative:tp1-razropage\\pages\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF43E809-D0B6-462E-8C60-A3EFC0EC31CD}|TP1-RAZROPAGE\\TP1-RAZROPAGE.csproj|c:\\users\\guilh\\source\\repos\\tp1-c#-2trimestre\\tp1-razropage\\pages\\addproduct.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF43E809-D0B6-462E-8C60-A3EFC0EC31CD}|TP1-RAZROPAGE\\TP1-RAZROPAGE.csproj|solutionrelative:tp1-razropage\\pages\\addproduct.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AF3AE6C5-E215-4199-9CAE-46FA902C8AB1}|TP1-CONSOLE\\TP1-CONSOLE.csproj|c:\\users\\guilh\\source\\repos\\tp1-c#-2trimestre\\tp1-console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AF3AE6C5-E215-4199-9CAE-46FA902C8AB1}|TP1-CONSOLE\\TP1-CONSOLE.csproj|solutionrelative:tp1-console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF3AE6C5-E215-4199-9CAE-46FA902C8AB1}|TP1-CONSOLE\\TP1-CONSOLE.csproj|c:\\users\\guilh\\source\\repos\\tp1-c#-2trimestre\\tp1-console\\questao02\\questao02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF3AE6C5-E215-4199-9CAE-46FA902C8AB1}|TP1-CONSOLE\\TP1-CONSOLE.csproj|solutionrelative:tp1-console\\questao02\\questao02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF3AE6C5-E215-4199-9CAE-46FA902C8AB1}|TP1-CONSOLE\\TP1-CONSOLE.csproj|c:\\users\\guilh\\source\\repos\\tp1-c#-2trimestre\\tp1-console\\questao01\\questao01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF3AE6C5-E215-4199-9CAE-46FA902C8AB1}|TP1-CONSOLE\\TP1-CONSOLE.csproj|solutionrelative:tp1-console\\questao01\\questao01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF3AE6C5-E215-4199-9CAE-46FA902C8AB1}|TP1-CONSOLE\\TP1-CONSOLE.csproj|c:\\users\\guilh\\source\\repos\\tp1-c#-2trimestre\\tp1-console\\questao11\\questao11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF3AE6C5-E215-4199-9CAE-46FA902C8AB1}|TP1-CONSOLE\\TP1-CONSOLE.csproj|solutionrelative:tp1-console\\questao11\\questao11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF3AE6C5-E215-4199-9CAE-46FA902C8AB1}|TP1-CONSOLE\\TP1-CONSOLE.csproj|c:\\users\\guilh\\source\\repos\\tp1-c#-2trimestre\\tp1-console\\questao06\\questao06.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF3AE6C5-E215-4199-9CAE-46FA902C8AB1}|TP1-CONSOLE\\TP1-CONSOLE.csproj|solutionrelative:tp1-console\\questao06\\questao06.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF3AE6C5-E215-4199-9CAE-46FA902C8AB1}|TP1-CONSOLE\\TP1-CONSOLE.csproj|c:\\users\\guilh\\source\\repos\\tp1-c#-2trimestre\\tp1-console\\questao07\\questao07.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF3AE6C5-E215-4199-9CAE-46FA902C8AB1}|TP1-CONSOLE\\TP1-CONSOLE.csproj|solutionrelative:tp1-console\\questao07\\questao07.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF3AE6C5-E215-4199-9CAE-46FA902C8AB1}|TP1-CONSOLE\\TP1-CONSOLE.csproj|c:\\users\\guilh\\source\\repos\\tp1-c#-2trimestre\\tp1-console\\questao05\\questao05.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF3AE6C5-E215-4199-9CAE-46FA902C8AB1}|TP1-CONSOLE\\TP1-CONSOLE.csproj|solutionrelative:tp1-console\\questao05\\questao05.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF3AE6C5-E215-4199-9CAE-46FA902C8AB1}|TP1-CONSOLE\\TP1-CONSOLE.csproj|c:\\users\\guilh\\source\\repos\\tp1-c#-2trimestre\\tp1-console\\questao04\\questao04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF3AE6C5-E215-4199-9CAE-46FA902C8AB1}|TP1-CONSOLE\\TP1-CONSOLE.csproj|solutionrelative:tp1-console\\questao04\\questao04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AF3AE6C5-E215-4199-9CAE-46FA902C8AB1}|TP1-CONSOLE\\TP1-CONSOLE.csproj|c:\\users\\guilh\\source\\repos\\tp1-c#-2trimestre\\tp1-console\\questao03\\questao03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AF3AE6C5-E215-4199-9CAE-46FA902C8AB1}|TP1-CONSOLE\\TP1-CONSOLE.csproj|solutionrelative:tp1-console\\questao03\\questao03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AF3AE6C5-E215-4199-9CAE-46FA902C8AB1}|TP1-CONSOLE\\TP1-CONSOLE.csproj|c:\\users\\guilh\\source\\repos\\tp1-c#-2trimestre\\tp1-console\\tp1-console.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{AF3AE6C5-E215-4199-9CAE-46FA902C8AB1}|TP1-CONSOLE\\TP1-CONSOLE.csproj|solutionrelative:tp1-console\\tp1-console.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{CF43E809-D0B6-462E-8C60-A3EFC0EC31CD}|TP1-RAZROPAGE\\TP1-RAZROPAGE.csproj|c:\\users\\guilh\\source\\repos\\tp1-c#-2trimestre\\tp1-razropage\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF43E809-D0B6-462E-8C60-A3EFC0EC31CD}|TP1-RAZROPAGE\\TP1-RAZROPAGE.csproj|solutionrelative:tp1-razropage\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF43E809-D0B6-462E-8C60-A3EFC0EC31CD}|TP1-RAZROPAGE\\TP1-RAZROPAGE.csproj|c:\\users\\guilh\\source\\repos\\tp1-c#-2trimestre\\tp1-razropage\\pages\\addevent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF43E809-D0B6-462E-8C60-A3EFC0EC31CD}|TP1-RAZROPAGE\\TP1-RAZROPAGE.csproj|solutionrelative:tp1-razropage\\pages\\addevent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF43E809-D0B6-462E-8C60-A3EFC0EC31CD}|TP1-RAZROPAGE\\TP1-RAZROPAGE.csproj|c:\\users\\guilh\\source\\repos\\tp1-c#-2trimestre\\tp1-razropage\\pages\\addevent.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF43E809-D0B6-462E-8C60-A3EFC0EC31CD}|TP1-RAZROPAGE\\TP1-RAZROPAGE.csproj|solutionrelative:tp1-razropage\\pages\\addevent.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF43E809-D0B6-462E-8C60-A3EFC0EC31CD}|TP1-RAZROPAGE\\TP1-RAZROPAGE.csproj|c:\\users\\guilh\\source\\repos\\tp1-c#-2trimestre\\tp1-razropage\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF43E809-D0B6-462E-8C60-A3EFC0EC31CD}|TP1-RAZROPAGE\\TP1-RAZROPAGE.csproj|solutionrelative:tp1-razropage\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,43 +70,187 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
+              "Title": "Questao11.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\source\\repos\\TP1-C#-2TRIMESTRE\\TP1-CONSOLE\\Questao11\\Questao11.cs",
+              "RelativeDocumentMoniker": "TP1-CONSOLE\\Questao11\\Questao11.cs",
+              "ToolTip": "C:\\Users\\guilh\\source\\repos\\TP1-C#-2TRIMESTRE\\TP1-CONSOLE\\Questao11\\Questao11.cs",
+              "RelativeToolTip": "TP1-CONSOLE\\Questao11\\Questao11.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAIwCgAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T00:24:33.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Questao07.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\source\\repos\\TP1-C#-2TRIMESTRE\\TP1-CONSOLE\\Questao07\\Questao07.cs",
+              "RelativeDocumentMoniker": "TP1-CONSOLE\\Questao07\\Questao07.cs",
+              "ToolTip": "C:\\Users\\guilh\\source\\repos\\TP1-C#-2TRIMESTRE\\TP1-CONSOLE\\Questao07\\Questao07.cs",
+              "RelativeToolTip": "TP1-CONSOLE\\Questao07\\Questao07.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T00:24:23.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Questao06.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\source\\repos\\TP1-C#-2TRIMESTRE\\TP1-CONSOLE\\Questao06\\Questao06.cs",
+              "RelativeDocumentMoniker": "TP1-CONSOLE\\Questao06\\Questao06.cs",
+              "ToolTip": "C:\\Users\\guilh\\source\\repos\\TP1-C#-2TRIMESTRE\\TP1-CONSOLE\\Questao06\\Questao06.cs",
+              "RelativeToolTip": "TP1-CONSOLE\\Questao06\\Questao06.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T00:23:12.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Questao05.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\source\\repos\\TP1-C#-2TRIMESTRE\\TP1-CONSOLE\\Questao05\\Questao05.cs",
+              "RelativeDocumentMoniker": "TP1-CONSOLE\\Questao05\\Questao05.cs",
+              "ToolTip": "C:\\Users\\guilh\\source\\repos\\TP1-C#-2TRIMESTRE\\TP1-CONSOLE\\Questao05\\Questao05.cs",
+              "RelativeToolTip": "TP1-CONSOLE\\Questao05\\Questao05.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T00:22:53.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Questao04.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\source\\repos\\TP1-C#-2TRIMESTRE\\TP1-CONSOLE\\Questao04\\Questao04.cs",
+              "RelativeDocumentMoniker": "TP1-CONSOLE\\Questao04\\Questao04.cs",
+              "ToolTip": "C:\\Users\\guilh\\source\\repos\\TP1-C#-2TRIMESTRE\\TP1-CONSOLE\\Questao04\\Questao04.cs",
+              "RelativeToolTip": "TP1-CONSOLE\\Questao04\\Questao04.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwBoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T00:16:50.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Questao03.cs",
               "DocumentMoniker": "C:\\Users\\guilh\\source\\repos\\TP1-C#-2TRIMESTRE\\TP1-CONSOLE\\Questao03\\Questao03.cs",
               "RelativeDocumentMoniker": "TP1-CONSOLE\\Questao03\\Questao03.cs",
               "ToolTip": "C:\\Users\\guilh\\source\\repos\\TP1-C#-2TRIMESTRE\\TP1-CONSOLE\\Questao03\\Questao03.cs",
               "RelativeToolTip": "TP1-CONSOLE\\Questao03\\Questao03.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T01:58:40.636Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-09T00:16:31.935Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TP1-CONSOLE",
-              "DocumentMoniker": "C:\\Users\\guilh\\source\\repos\\TP1-C#-2TRIMESTRE\\TP1-CONSOLE\\TP1-CONSOLE.csproj",
-              "RelativeDocumentMoniker": "TP1-CONSOLE\\TP1-CONSOLE.csproj",
-              "ToolTip": "C:\\Users\\guilh\\source\\repos\\TP1-C#-2TRIMESTRE\\TP1-CONSOLE\\TP1-CONSOLE.csproj",
-              "RelativeToolTip": "TP1-CONSOLE\\TP1-CONSOLE.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-06T01:52:17.274Z",
+              "DocumentIndex": 3,
+              "Title": "Questao02.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\source\\repos\\TP1-C#-2TRIMESTRE\\TP1-CONSOLE\\Questao02\\Questao02.cs",
+              "RelativeDocumentMoniker": "TP1-CONSOLE\\Questao02\\Questao02.cs",
+              "ToolTip": "C:\\Users\\guilh\\source\\repos\\TP1-C#-2TRIMESTRE\\TP1-CONSOLE\\Questao02\\Questao02.cs",
+              "RelativeToolTip": "TP1-CONSOLE\\Questao02\\Questao02.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T00:14:49.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Questao01.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\source\\repos\\TP1-C#-2TRIMESTRE\\TP1-CONSOLE\\Questao01\\Questao01.cs",
+              "RelativeDocumentMoniker": "TP1-CONSOLE\\Questao01\\Questao01.cs",
+              "ToolTip": "C:\\Users\\guilh\\source\\repos\\TP1-C#-2TRIMESTRE\\TP1-CONSOLE\\Questao01\\Questao01.cs",
+              "RelativeToolTip": "TP1-CONSOLE\\Questao01\\Questao01.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T00:12:47.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AddEvent.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\source\\repos\\TP1-C#-2TRIMESTRE\\TP1-RAZROPAGE\\Pages\\AddEvent.cshtml.cs",
+              "RelativeDocumentMoniker": "TP1-RAZROPAGE\\Pages\\AddEvent.cshtml.cs",
+              "ToolTip": "C:\\Users\\guilh\\source\\repos\\TP1-C#-2TRIMESTRE\\TP1-RAZROPAGE\\Pages\\AddEvent.cshtml.cs",
+              "RelativeToolTip": "TP1-RAZROPAGE\\Pages\\AddEvent.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T21:51:48.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AddEvent.cshtml",
+              "DocumentMoniker": "C:\\Users\\guilh\\source\\repos\\TP1-C#-2TRIMESTRE\\TP1-RAZROPAGE\\Pages\\AddEvent.cshtml",
+              "RelativeDocumentMoniker": "TP1-RAZROPAGE\\Pages\\AddEvent.cshtml",
+              "ToolTip": "C:\\Users\\guilh\\source\\repos\\TP1-C#-2TRIMESTRE\\TP1-RAZROPAGE\\Pages\\AddEvent.cshtml",
+              "RelativeToolTip": "TP1-RAZROPAGE\\Pages\\AddEvent.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-07T21:49:06.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddProduct.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\source\\repos\\TP1-C#-2TRIMESTRE\\TP1-RAZROPAGE\\Pages\\AddProduct.cshtml.cs",
+              "RelativeDocumentMoniker": "TP1-RAZROPAGE\\Pages\\AddProduct.cshtml.cs",
+              "ToolTip": "C:\\Users\\guilh\\source\\repos\\TP1-C#-2TRIMESTRE\\TP1-RAZROPAGE\\Pages\\AddProduct.cshtml.cs",
+              "RelativeToolTip": "TP1-RAZROPAGE\\Pages\\AddProduct.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T21:34:18.527Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AddProduct.cshtml",
+              "DocumentMoniker": "C:\\Users\\guilh\\source\\repos\\TP1-C#-2TRIMESTRE\\TP1-RAZROPAGE\\Pages\\AddProduct.cshtml",
+              "RelativeDocumentMoniker": "TP1-RAZROPAGE\\Pages\\AddProduct.cshtml",
+              "ToolTip": "C:\\Users\\guilh\\source\\repos\\TP1-C#-2TRIMESTRE\\TP1-RAZROPAGE\\Pages\\AddProduct.cshtml",
+              "RelativeToolTip": "TP1-RAZROPAGE\\Pages\\AddProduct.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-07T21:33:47.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\guilh\\source\\repos\\TP1-C#-2TRIMESTRE\\TP1-RAZROPAGE\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "TP1-RAZROPAGE\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\guilh\\source\\repos\\TP1-C#-2TRIMESTRE\\TP1-RAZROPAGE\\Pages\\Index.cshtml",
+              "RelativeToolTip": "TP1-RAZROPAGE\\Pages\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-07T21:23:50.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\source\\repos\\TP1-C#-2TRIMESTRE\\TP1-RAZROPAGE\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "TP1-RAZROPAGE\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\guilh\\source\\repos\\TP1-C#-2TRIMESTRE\\TP1-RAZROPAGE\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "TP1-RAZROPAGE\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T21:22:49.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\guilh\\source\\repos\\TP1-C#-2TRIMESTRE\\TP1-CONSOLE\\Program.cs",
               "RelativeDocumentMoniker": "TP1-CONSOLE\\Program.cs",
               "ToolTip": "C:\\Users\\guilh\\source\\repos\\TP1-C#-2TRIMESTRE\\TP1-CONSOLE\\Program.cs",
               "RelativeToolTip": "TP1-CONSOLE\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAkwCEAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-06T01:50:50.679Z",
               "EditorCaption": ""

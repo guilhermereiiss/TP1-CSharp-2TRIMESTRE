@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TP1-CONSOLE")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3d5cf77b5901f11f3226909bf1a17b62daa010fc")]
 [assembly: System.Reflection.AssemblyProductAttribute("TP1-CONSOLE")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TP1-CONSOLE")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

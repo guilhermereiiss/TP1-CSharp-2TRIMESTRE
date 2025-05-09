@@ -12,3 +12,4 @@ C:\Users\guilh\source\repos\TP1-C#-2TRIMESTRE\TP1-CONSOLE\obj\Debug\net8.0\refin
 C:\Users\guilh\source\repos\TP1-C#-2TRIMESTRE\TP1-CONSOLE\obj\Debug\net8.0\TP1-CONSOLE.pdb
 C:\Users\guilh\source\repos\TP1-C#-2TRIMESTRE\TP1-CONSOLE\obj\Debug\net8.0\TP1-CONSOLE.genruntimeconfig.cache
 C:\Users\guilh\source\repos\TP1-C#-2TRIMESTRE\TP1-CONSOLE\obj\Debug\net8.0\ref\TP1-CONSOLE.dll
+C:\Users\guilh\source\repos\TP1-C#-2TRIMESTRE\TP1-CONSOLE\obj\Debug\net8.0\TP1-CONSOLE.sourcelink.json

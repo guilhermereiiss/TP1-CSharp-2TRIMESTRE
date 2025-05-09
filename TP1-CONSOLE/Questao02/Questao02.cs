@@ -9,8 +9,8 @@ namespace AcoesMultilingues
         {
             Console.WriteLine("=== Bem-vindo ao Sistema Multilíngue ===");
             Console.WriteLine("Escolha um idioma:");
-            Console.WriteLine("1 - Português");
-            Console.WriteLine("2 - Inglês");
+            Console.WriteLine("1 - Portugues");
+            Console.WriteLine("2 - Ingles");
             Console.WriteLine("3 - Espanhol");
 
             Console.Write("Digite o número da opção: ");
@@ -20,7 +20,7 @@ namespace AcoesMultilingues
             {
                 { "1", (nome) => Console.WriteLine($"Olá, {nome}! Seja bem-vindo!") },
                 { "2", (nome) => Console.WriteLine($"Hello, {nome}! Welcome!") },
-                { "3", (nome) => Console.WriteLine($"¡Hola, {nome}! ¡Bienvenido!") }
+                { "3", (nome) => Console.WriteLine($"¡Hola, {nome}! Bienvenido!") }
             };
 
             Console.Write("Digite seu nome: ");
@@ -33,7 +33,7 @@ namespace AcoesMultilingues
             }
             else
             {
-                Console.WriteLine("Idioma não reconhecido.");
+                Console.WriteLine("Idioma não reconhecido");
             }
         }
     }

@@ -1,10 +1,19 @@
 ﻿@page
-@model IndexModel
+@model RazorProdutosApp.Pages.IndexModel
 @{
-    ViewData["Title"] = "Home page";
+    ViewData["Title"] = "Página Inicial";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
+<h1>Lista de Produtos - Questaõ 08</h1>
+
+<ul>
+    @foreach (var produto in Model.Produtos)
+    {
+        <li>
+            <strong>@produto.Nome</strong>: R$ @produto.Preco
+        </li>
+    }
+</ul>
+
+<a href="/AddProduct">Ir para Questão 09</a>
+<a href="/AddEvent">Ir para Questão 11</a>

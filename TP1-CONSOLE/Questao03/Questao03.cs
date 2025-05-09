@@ -6,7 +6,7 @@ namespace CalculoDeArea
     {
         public static void Executar()
         {
-            Console.WriteLine("=== Cálculo de Área de um Retângulo ===");
+            Console.WriteLine("=== Cálculo de Area de um Retângulo ===");
 
             Console.Write("Informe a base (em metros): ");
             string entradaBase = Console.ReadLine();
@@ -25,7 +25,7 @@ namespace CalculoDeArea
 
             double area = calcularArea(baseRetangulo, alturaRetangulo);
 
-            Console.WriteLine($"A área do retângulo é: {area:F2} metros quadrados.");
+            Console.WriteLine($"A area do retângulo é: {area:F2} metros quadrados.");
         }
     }
 }
